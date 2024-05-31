@@ -37,14 +37,18 @@ and efficient OPEN-SOURCE 🐧 tool for communication and networking in local pr
 the DEV-C/C++ development environment, adding the command -lws2_32 to the linker, which is necessary for using sockets on Windows.
 
 <br>
+
 - After this setup, proceed to compile the program using the 'rebuild all' option. Once the executable files for the server and the client are created (preferably on separate machines within the same network),
 first run the server, and then, through the user options, execute the client executable file.
-<br><br>
+<br>
+
 - It is important to note that this specific version is not cross-platform and cannot be executed on Linux or macOS operating systems (for now).
-<br><br>
+<br>
+
 - Similarly, the program can be compiled in a similar development environment with an installed compiler, as well as in a custom assembly environment, provided it is compiled with commands such as gcc -o server.exe ........ -lws2_32.
 Additionally, any Integrated Development Environment (IDE) with a C++ compiler, such as Visual Studio, Code::Blocks, CLion, Xcode, and many others, can be used. Just ensure the -lws2_32 command is added to the linker's settings.
-<br><br>
+<br>
+
 - After compiling the source code and creating the executable files for the server and the client, you can run the server first and then the client, using the appropriate program options.
 
 <br><br><br><br><br>

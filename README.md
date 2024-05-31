@@ -160,7 +160,7 @@ This release includes both server and client executables, allowing seamless comm
 
 
 ![Image Description](https://github.com/PanagiotisKots/SafeSocket/blob/main/V%20-%200.1/img/img1.jpg)
-<img src="https://github.com/PanagiotisKots/SafeSocket/blob/main/V%200.1/img/img2.jpg" alt="Image Description" width="300" height="300">
+<img src="https://github.com/PanagiotisKots/SafeSocket/blob/main/V%20-%200.1/img/img2.jpg" alt="Image Description" width="300" height="300">
 
 
 

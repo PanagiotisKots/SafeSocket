@@ -55,7 +55,7 @@ Additionally, any Integrated Development Environment (IDE) with a C++ compiler, 
 
 - After compiling the source code and creating the executable files for the server and the client, you can run the server first and then the client, using the appropriate program options.
 
-<br><br><br>
+<br><br>
 
 
 

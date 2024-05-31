@@ -40,6 +40,9 @@ the DEV-C/C++ development environment, adding the command -lws2_32 to the linker
 
 - After this setup, proceed to compile the program using the 'rebuild all' option. Once the executable files for the server and the client are created (preferably on separate machines within the same network),
 first run the server, and then, through the user options, execute the client executable file.
+
+!Note The server must start first to listen for incoming connections
+
 <br>
 
 - It is important to note that this specific version is not cross-platform and cannot be executed on Linux or macOS operating systems (for now).

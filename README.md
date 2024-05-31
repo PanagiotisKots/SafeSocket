@@ -78,3 +78,53 @@ Additionally, any Integrated Development Environment (IDE) with a C++ compiler, 
 
 
 
+
+
+
+
+
+
+
+<h2>SafeSocket++ v1.0 - First Official Release</h2>
+
+
+ We are excited to announce the first official release of SafeSocket++, a console-based program developed in C++ for networking and user communication on local networks.
+This release includes both server and client executables, allowing seamless communication between multiple computers on the same LAN.
+Features
+
+    Real-time message exchange between users
+    Easy setup and usage
+    User-friendly interface
+    Single server-client connection or multiple connections
+    Comprehensive menus with various options
+
+Installation and Usage
+
+    Download the server.exe and client.exe files from the release assets below.
+    Place the executables on separate machines within the same network.
+    Run server.exe on one machine.
+    Run client.exe on another machine and follow the user options to connect to the server.
+
+System Requirements
+
+    Compatible with Windows operating systems
+    Requires -lws2_32 linker command for socket functionality
+
+Notes
+
+    This version is not cross-platform and currently does not support Linux or macOS.
+    Further improvements and new features will be available in upcoming releases.
+
+
+- We look forward to your feedback and contributions. For more details and to report any issues, please visit our GitHub repository.
+
+- Download the executables from the assets below and start communicating efficiently within your local network!
+
+- Thank you for using SafeSocket++!
+
+- Feel free to adjust the repository link and any other specific details as needed.
+
+
+
+
+

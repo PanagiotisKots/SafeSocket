@@ -135,7 +135,8 @@ This release includes both server and client executables, allowing seamless comm
     Further improvements and new features will be available in upcoming releases.
 
 
-- We look forward to your feedback and contributions. For more details and to report any issues, please feel free to add to the repo👾
+- We look forward to your feedback and contributions. For more details and to report any issues,
+  please feel free to add to the repo👾
 
 - Download the executables from the assets below and start communicating efficiently within your local network🌐
 

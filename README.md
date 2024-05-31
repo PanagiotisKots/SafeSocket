@@ -113,19 +113,22 @@ This release includes both server and client executables, allowing seamless comm
     Single server-client connection or multiple connections
     Comprehensive menus with various options
 
-Installation and Usage
+<h3>Installation and Usage</h3>
+
 
     Download the server.exe and client.exe files from the release assets below.
     Place the executables on separate machines within the same network.
     Run server.exe on one machine.
     Run client.exe on another machine and follow the user options to connect to the server.
 
-System Requirements
+<h3>System Requirements</h3>
+
 
     Compatible with Windows operating systems
     Requires -lws2_32 linker command for socket functionality
 
-Notes
+<h3>Notes</h3>
+
 
     This version is not cross-platform and currently does not support Linux or macOS.
     Further improvements and new features will be available in upcoming releases.

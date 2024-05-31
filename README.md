@@ -36,7 +36,7 @@ and efficient OPEN-SOURCE 🐧 tool for communication and networking in local pr
 - The program is designed to be compatible with most Windows operating systems commonly used in the market, both older and future systems. On our end, the program has been tested and delivered through
 the DEV-C/C++ development environment, adding the command -lws2_32 to the linker, which is necessary for using sockets on Windows.
 
-<br><br>
+<br>
 - After this setup, proceed to compile the program using the 'rebuild all' option. Once the executable files for the server and the client are created (preferably on separate machines within the same network),
 first run the server, and then, through the user options, execute the client executable file.
 <br><br>

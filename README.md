@@ -85,7 +85,7 @@ Additionally, any Integrated Development Environment (IDE) with a C++ compiler, 
 
 
 
-<h2>SafeSocket++ v1.0 - First Official Release</h2>
+<h2>SafeSocket++ v0.1 - First Official Release</h2>
 
 
  We are excited to announce the first official release of SafeSocket++, a console-based program developed in C++ for networking and user communication on local networks.

@@ -126,6 +126,7 @@ This release includes both server and client executables, allowing seamless comm
 
     Compatible with Windows operating systems
     Requires -lws2_32 linker command for socket functionality
+    if you choose to compile it yourself
 
 <h3>Notes</h3>
 

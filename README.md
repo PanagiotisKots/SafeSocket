@@ -159,8 +159,8 @@ This release includes both server and client executables, allowing seamless comm
 <h2>Overview</h2>
 
 
-![Image Description](https://github.com/your-username/your-repo-name/raw/main/path-to-your-image/image.png)
-![Image Description](https://github.com/your-username/your-repo-name/raw/main/path-to-your-image/image.png)
+![Image Description](https://github.com/PanagiotisKots/SafeSocket/blob/main/V%20-%200.1/img/img1.jpg)
+![Image Description](https://github.com/PanagiotisKots/SafeSocket/blob/main/V%20-%200.1/img/img2.jpg)
 
 
 

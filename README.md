@@ -70,6 +70,8 @@ Additionally, any Integrated Development Environment (IDE) with a C++ compiler, 
 
 <h3>Communication between computers on a local network </h3>
 
+<br>
+
 - Communication between computers on a local network (LAN) can be easily achieved using our application,
   offering a variety of features and functionalities that make interaction between users simple and efficient.
 

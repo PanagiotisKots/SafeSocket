@@ -94,7 +94,7 @@ Additionally, any Integrated Development Environment (IDE) with a C++ compiler, 
 
 
 
-<br>
+<br><br>
 
 
 <h2>SafeSocket++ v0.1 - First Official Release</h2>

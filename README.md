@@ -53,4 +53,24 @@ Additionally, any Integrated Development Environment (IDE) with a C++ compiler, 
 
 
 
+<h2>Usage</h2>
+
+<h3>Communication between computers on a local network </h3>
+
+- Communication between computers on a local network (LAN) can be easily achieved using our application,
+  offering a variety of features and functionalities that make interaction between users simple and efficient.
+
+- One of its key features is real-time message exchange. Users can send and receive messages instantly, without delays, facilitating collaboration and communication
+  in a work or educational environment. Whether it’s a quick question or an extensive discussion, our application supports it seamlessly.
+
+- The ease of use of our application makes it ideal for any organization or team looking to improve communication in private networks.
+  With a user-friendly interface and simple installation and usage procedures, even less experienced users can take full advantage of its capabilities.
+
+- Overall, SafeSocket++ provides a comprehensive solution for communication and collaboration on a local network, offering all the necessary tools for real-time message exchange.
+
+
+
+
+
+
 

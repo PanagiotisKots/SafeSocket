@@ -169,8 +169,9 @@ This release includes both server and client executables, allowing seamless comm
 
 
 Watch this video to see SafeSocket++ in action:
-
-[![Click to watch video](https://upload.wikimedia.org/wikipedia/commons/6/6a/Youtube_Music_icon.svg)](https://youtu.be/J8wKHlkof-0){: width="250px" height="250px"}
+<a href="https://youtu.be/J8wKHlkof-0">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Youtube_Music_icon.svg" width="250" height="250">
+</a>
 
 
 

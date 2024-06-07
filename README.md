@@ -170,7 +170,7 @@ This release includes both server and client executables, allowing seamless comm
 
 Watch this video to see SafeSocket++ in action:
 
-[![Click to watch video](http://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://youtu.be/J8wKHlkof-0)
+[![Click to watch video](https://upload.wikimedia.org/wikipedia/commons/6/6a/Youtube_Music_icon.svg)](https://youtu.be/J8wKHlkof-0)
 
 
 

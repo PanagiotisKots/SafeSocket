@@ -172,7 +172,7 @@ Watch this video to see SafeSocket++ in action:
 
 
 
-[![Watch the video](https://img.youtube.com/vi/your-video-id/maxresdefault.jpg)](https://www.youtube.com/watch?v=your-video-id)
+[![Watch the video](https://youtu.be/J8wKHlkof-0)
 
 
 

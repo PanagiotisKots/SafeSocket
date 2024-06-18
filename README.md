@@ -46,7 +46,7 @@ first run the server, and then, through the user options, execute the client exe
 
 <br>
 
-- It is important to note that this specific version is not cross-platform and cannot be executed on Linux or macOS operating systems (for now).
+- It is important to note that this specific version is not cross-platform and cannot be executed on Linux🐧 or macOS🍎 operating systems (for now).
 <br>
 
 - Similarly, the program can be compiled in a similar development environment with an installed compiler, as well as in a custom assembly environment, provided it is compiled with commands such as gcc -o server.exe ........ -lws2_32.

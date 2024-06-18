@@ -7,7 +7,7 @@ enable full communication between two or more computers through a predefined por
 
 <br>
 
-- The program includes menus in both profiles (server - client), offering options such as -help, single server-client connection / multiple connections, 
+- The program includes 📋menus in both profiles (server - client), offering options such as -help, single server-client connection / multiple connections, 
 and a variety of other functions. Currently, it is in version 0.1, and some features are still pending. Further improvements and new versions are 
 expected to be made available on the program's GitHub repository with its first official release.
 

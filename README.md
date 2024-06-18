@@ -87,7 +87,7 @@ Additionally, any Integrated Development Environment (IDE) with a C++ compiler, 
 
 
 
-
+⚠️ Default server & Client Credentials = "admin" "pass"
 
 
 

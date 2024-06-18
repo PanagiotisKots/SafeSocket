@@ -46,7 +46,7 @@ void homepage(){
 	cout<<"=> Utilizes: [AES] Advanced Encryption Protocol.";Set_Console_Color(FOREGROUND_RED, 0);cout<<"   (!) ";Set_Console_Color(FOREGROUND_YELLOW, 0);cout<<"not yet available\n";Set_Console_Color(FOREGROUND_RED, 0);
     cout<<"=> Windows system compatible.\n";
 	cout<<"=> Fully written in C++ programming language."<<endl;
-	cout<<"=> Active Contributors: [Kotsorgios Panagiotis]."<<endl<<endl<<endl;
+	cout<<"=> Active Contributors: [Kotsorgios Panagiotis] && [Gkontai Aldo]."<<endl<<endl<<endl;
 	
 	
 	//main menu options display with console color manipulations

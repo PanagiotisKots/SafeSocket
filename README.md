@@ -110,7 +110,7 @@ This release includes both server and client executables, allowing seamless comm
     Real-time message exchange between users
     Easy setup and usage
     User-friendly interface
-    Single server-client connection or multiple connections
+    Single server-client connection 
     Comprehensive menus with various options
 
 <h3>Installation and Usage</h3>

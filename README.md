@@ -15,7 +15,7 @@ expected to be made available on this repository as it's future versions get rel
 
 
 - Structurally, it is a communication and networking program 🖧 designed to be easy to use and extend. It is organized into various modules that serve different functions and communicate 
-with each other to ensure the proper operation of the application. Using object-oriented programming (OOP), each module consists of various classes and objects that offer specific 
+with each other to ensure the proper operation of the application. Using object-oriented programming (OOP)🔧, each module consists of various classes and objects that offer specific 
 functionalities and capabilities. This structure allows for code reuse and easy management and maintenance of the program. Additionally, the use of OOP provides the capability for the 
 program's scalability, as new modules and features can be added easily without affecting the functionality of the existing ones.
 

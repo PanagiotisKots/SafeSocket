@@ -33,7 +33,7 @@ and efficient OPEN-SOURCE 🐧 tool for communication and networking in local pr
 
 <br>
 
-- The program is designed to be compatible with most Windows operating systems commonly used in the market, both older and future systems. On our end, the program has been tested and delivered through
+- The program is designed to be compatible with most Windows 🪟 operating systems commonly used in the market, both older and future systems. On our end, the program has been tested and delivered through
 the DEV-C/C++ development environment, adding the command -lws2_32 to the linker, which is necessary for using sockets on Windows.
 
 <br>

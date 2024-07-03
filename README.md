@@ -159,7 +159,7 @@ This release includes both server and client executables, allowing seamless comm
 <h2>Overview</h2>
 
 
-<img src="https://github.com/PanagiotisKots/SafeSocket/blob/main/V%20-%200.1/img/img5.jpg" alt="Image Description" width="710" height="550"> 
+<img src="https://github.com/PanagiotisKots/SafeSocket/blob/main/-v0.2/img/abwvf.jpg" alt="Image Description" width="710" height="550"> 
 
 <p float="left">
     <img src="https://github.com/PanagiotisKots/SafeSocket/blob/main/-v0.2/img/abwvf.jpg" alt="Image Description" width="410" height="350">
@@ -181,7 +181,7 @@ This release includes both server and client executables, allowing seamless comm
     <img src="https://github.com/PanagiotisKots/SafeSocket/blob/main/-v0.2/img/img7.jpg" alt="Image Description" width="410" height="350">
 </p>
 
-<img src="https://github.com/PanagiotisKots/SafeSocket/blob/main/-v0.2/img/img7.jpg" alt="Image Description" width="710" height="550">
+
 
 
 

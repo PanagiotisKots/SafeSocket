@@ -70,7 +70,6 @@ Sleep(200);
 
 
 
-//animations need to move from here to Animations.h and .cpp IMPORTANT!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 void Loading_Login_Animation_Function(const int totalProgress, const std::string& loadingText, const int delay) {
     for (int progress = 0; progress <= totalProgress; ++progress) {
         cout << "\r" << loadingText << "[";
@@ -93,7 +92,6 @@ void Loading_Login_Animation_Function(const int totalProgress, const std::string
             Sleep(delay); // Normal speed for the middle third
     }
 }
-//animations need to move from here to Animations.h and .cpp IMPORTANT!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 void Loading_Components_Animation() {
     string loadingText = "Loading Components ";
     const int totalProgress = 50; // Total length of the progress bar
@@ -101,7 +99,6 @@ void Loading_Components_Animation() {
     Loading_Login_Animation_Function(totalProgress, loadingText, delay);
     Sleep(1400);
 }
-//animations need to move from here to Animations.h and .cpp IMPORTANT!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 void Initialising_Programm_Animation() {
     string loadingText = "Initialising Programm ";
     const int totalProgress = 50; // Total length of the progress bar
@@ -109,7 +106,6 @@ void Initialising_Programm_Animation() {
     Loading_Login_Animation_Function(totalProgress, loadingText, delay);
 }
 
-//animations need to move from here to Animations.h and .cpp IMPORTANT!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 void clearLineToCursor() {
     CONSOLE_SCREEN_BUFFER_INFO csbi;
     GetConsoleScreenBufferInfo(GetStdHandle(STD_OUTPUT_HANDLE), &csbi);

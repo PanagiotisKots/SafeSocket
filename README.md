@@ -161,18 +161,18 @@ This release includes both server and client executables, allowing seamless comm
 
 
 <p float="left">
-    <img src="https://github.com/PanagiotisKots/SafeSocket/blob/main/-v0.2/img/abwvf.jpg" alt="Image Description" width="410" height="350">
-    <img src="https://github.com/PanagiotisKots/SafeSocket/blob/main/-v0.2/img/img1.jpg" alt="Image Description" width="410" height="350">
+    <img src="img/img1.jpg" alt="Image Description" width="410" height="350">
+    <img src="img/img2.jpg" alt="Image Description" width="410" height="350">
 </p>
 
 <p float="left">
-    <img src="https://github.com/PanagiotisKots/SafeSocket/blob/main/-v0.2/img/img2.jpg" alt="Image Description" width="410" height="350">
-    <img src="https://github.com/PanagiotisKots/SafeSocket/blob/main/-v0.2/img/img3.jpg" alt="Image Description" width="410" height="350">
+    <img src="img/img3.jpg" alt="Image Description" width="410" height="350">
+    <img src="img/img4.jpg" alt="Image Description" width="410" height="350">
 </p>
 
 <p float="left">
-    <img src="https://github.com/PanagiotisKots/SafeSocket/blob/main/-v0.2/img/img4.jpg" alt="Image Description" width="410" height="350">
-    <img src="https://github.com/PanagiotisKots/SafeSocket/blob/main/-v0.2/img/img5.jpg" alt="Image Description" width="410" height="350">
+    <img src="img5.jpg" alt="Image Description" width="410" height="350">
+    <img src="img/img6.jpg" alt="Image Description" width="410" height="350">
 </p>
 
 <p float="left">

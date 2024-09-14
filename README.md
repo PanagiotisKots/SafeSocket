@@ -175,10 +175,6 @@ This release includes both server and client executables, allowing seamless comm
     <img src="img/img6.jpg" alt="Image Description" width="410" height="350">
 </p>
 
-<p float="left">
-    <img src="https://github.com/PanagiotisKots/SafeSocket/blob/main/-v0.2/img/img6.jpg" alt="Image Description" width="410" height="350">
-    <img src="https://github.com/PanagiotisKots/SafeSocket/blob/main/-v0.2/img/img7.jpg" alt="Image Description" width="410" height="350">
-</p>
 
 
 

@@ -171,7 +171,7 @@ This release includes both server and client executables, allowing seamless comm
 </p>
 
 <p float="left">
-    <img src="img5.jpg" alt="Image Description" width="410" height="350">
+    <img src="img/img5.jpg" alt="Image Description" width="410" height="350">
     <img src="img/img6.jpg" alt="Image Description" width="410" height="350">
 </p>
 
